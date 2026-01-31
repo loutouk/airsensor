@@ -1,0 +1,9 @@
+5V
+Particles sensor PM2.5 G5 PMS5003 (Red Black R B R B D4 R D3 B R 5V B ground)
+CD Display 0.96 inch OLED SSD1306 128X64 IIC I2C
+CO2 infrared sensor MH-Z19 (Green TXD D13 SCK D5 & Blue RXD on D12 MISO D6)
+Heat/humidity sensor DHT22 --> D1 / MOSI / D7 with 4.7K R
+Board ESP8266 ESP-12F WiFi WeMos D1 Arduino UNO R3 (SCL D9 & SDA D8)
+
+3.3V
+DIODE with 4.7K R on 3.3V & AO
